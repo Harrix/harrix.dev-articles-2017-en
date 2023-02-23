@@ -2,6 +2,8 @@
 date: 2017-04-13
 categories: [it, programming]
 tags: [Android, Android Studio, Java, SQLite, SQL]
+author: Anton Sergienko
+author-email: anton.b.sergienko@gmail.com
 ---
 
 # Connecting an existing SQLite database to Android Studio (short)
