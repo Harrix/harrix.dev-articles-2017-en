@@ -13,6 +13,8 @@ lang: en
 
 # Connecting an existing SQLite database to Android Studio (short)
 
+![Featured image](featured-image.svg)
+
 The article presents the class for using the existing SQLite database. The introduced class allows to update the database via the DB_VERSION.
 
 ## Preparing the SQLite database file
