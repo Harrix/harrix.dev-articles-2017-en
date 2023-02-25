@@ -8,6 +8,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-blog-2017-en/blob/main/win-fn-key-swap-in-msi/win-fn-key-swap-in-msi.md
 url: https://harrix.dev/en/blog/2017/win-fn-key-swap-in-msi/
+lang: en
 ---
 
 # Win/Fn Key Swap in MSI GT72VR 6RD DOMINATOR

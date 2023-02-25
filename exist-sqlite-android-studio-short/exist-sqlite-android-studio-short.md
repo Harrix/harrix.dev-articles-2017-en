@@ -8,6 +8,7 @@ license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
 url-src: https://github.com/Harrix/harrix.dev-blog-2017-en/blob/main/exist-sqlite-android-studio-short/exist-sqlite-android-studio-short.md
 url: https://harrix.dev/en/blog/2017/exist-sqlite-android-studio-short/
+lang: en
 ---
 
 # Connecting an existing SQLite database to Android Studio (short)
