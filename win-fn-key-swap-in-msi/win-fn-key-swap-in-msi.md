@@ -18,3 +18,5 @@ lang: en
 Could not find switching keys `Win` and `Fn` in my laptop. It turned out that switching occurs in the BIOS:
 
 ![Switching occurs in the BIOS](img/bios.png)
+
+_Figure 1: Switching occurs in the BIOS_
