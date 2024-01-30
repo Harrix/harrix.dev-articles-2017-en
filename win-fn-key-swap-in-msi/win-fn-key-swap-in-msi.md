@@ -6,7 +6,7 @@ author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
 license-url: https://github.com/Harrix/harrix.dev/blob/main/LICENSE.md
-permalink-source: https://github.com/Harrix/harrix.dev-blog-2017-en/blob/main/win-fn-key-swap-in-msi/win-fn-key-swap-in-msi.md
+permalink-source: https://github.com/Harrix/harrix.dev-articles-2017-en/blob/main/win-fn-key-swap-in-msi/win-fn-key-swap-in-msi.md
 permalink: https://harrix.dev/en/blog/2017/win-fn-key-swap-in-msi/
 lang: en
 ---
