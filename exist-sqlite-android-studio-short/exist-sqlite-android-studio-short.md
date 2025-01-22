@@ -17,6 +17,11 @@ lang: en
 
 The article presents the class for using the existing SQLite database. The introduced class allows to update the database via the DB_VERSION.
 
+- [Preparing the SQLite database file](#preparing-the-sqlite-database-file)
+- [Class to connect to the database](#class-to-connect-to-the-database)
+- [Using a class](#using-a-class)
+- [Database file in the folder res/raw](#database-file-in-the-folder-resraw)
+
 ## Preparing the SQLite database file
 
 To create a SQLite DB I recommend using [DB Browser for SQLite](https://sqlitebrowser.org/). Download and install. Create a database as a file, save it.
