@@ -1,7 +1,14 @@
 ---
 date: 2017-04-13
-categories: [it, programming]
-tags: [Android, Android Studio, Java, SQLite, SQL]
+categories:
+  - it
+  - programming
+tags:
+  - Android
+  - Android Studio
+  - Java
+  - SQLite
+  - SQL
 author: Anton Sergienko
 author-email: anton.b.sergienko@gmail.com
 license: CC BY 4.0
