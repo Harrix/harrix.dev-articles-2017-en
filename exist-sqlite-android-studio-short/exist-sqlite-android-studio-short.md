@@ -24,8 +24,6 @@ lang: en
 
 The article presents the class for using the existing SQLite database. The introduced class allows to update the database via the DB_VERSION.
 
-## Table of contents
-
 - [Preparing the SQLite database file](#preparing-the-sqlite-database-file)
 - [Class to connect to the database](#class-to-connect-to-the-database)
 - [Using a class](#using-a-class)
