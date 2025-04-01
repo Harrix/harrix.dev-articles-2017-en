@@ -27,6 +27,8 @@ The article presents the class for using the existing SQLite database. The intro
 <details>
 <summary>📖 Contents</summary>
 
+## Contents
+
 - [Preparing the SQLite database file](#preparing-the-sqlite-database-file)
 - [Class to connect to the database](#class-to-connect-to-the-database)
 - [Using a class](#using-a-class)
